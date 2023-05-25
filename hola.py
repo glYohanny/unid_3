@@ -6,3 +6,5 @@ while i<5:
     print("roa lola bunny")
     if i==3:
         print("loxado")
+        if i==3:
+            print("foca")
